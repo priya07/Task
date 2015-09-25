@@ -1,0 +1,13 @@
+/* Empty. Add your own CSS if you like */
+h2{
+	font-size: 15px;
+	font-weight: bold;
+	text-align: center;
+	width:100%;
+}
+
+.delete{
+	color: blue;
+	text-decoration: none;
+	float:right;
+}
